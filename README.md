@@ -113,6 +113,27 @@ Create edge functions in Supabase using:
 npm run dev
 ```
 
+## Screenshots
+
+Pricing cards
+![image](https://github.com/user-attachments/assets/90b571ad-d2e4-48a7-a65e-0a0485242d98)
+
+Members area
+![image](https://github.com/user-attachments/assets/c6899c9c-acb3-4c48-a1bf-8514d4edecb6)
+
+Stripe's Checkout
+![image](https://github.com/user-attachments/assets/7781704f-a147-400f-b95f-8a5f07844669)
+
+Stripe's Products
+![image](https://github.com/user-attachments/assets/6cebf78e-6266-42bf-abed-d33c0dd77c52)
+
+Stripe's Customers
+![image](https://github.com/user-attachments/assets/018aa93a-3f2f-49c6-a08d-fbb613f953fa)
+
+Stripe's Subscriptions
+![image](https://github.com/user-attachments/assets/14cdaa2e-93b0-4080-abe1-f51807d62c1e)=
+
+
 ## Project Setup
 - [x] Initialize Vue project with Vite
 - [x] Install required dependencies:
