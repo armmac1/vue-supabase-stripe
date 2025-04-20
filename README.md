@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Minimal and secure Vue application that integrates with Supabase and Stripe. It allows users to sign up, log in, buy a subscription, and access members-only areas. Uses Stripe's Checkout & Products, uses Supabase edge function to create checkout session and handle subscription webhook events. Due to it being bare bones, it can be used as a starting point for subscription based applications.
+Minimal Vue application that integrates with Supabase and Stripe. It allows users to sign up, log in, buy a subscription, and access members-only areas. Uses Stripe's Checkout & Products, uses Supabase edge function to create checkout session and handle subscription webhook events. Due to it being bare bones, it can be used as a starting point for subscription based applications.
 
 ## Project Setup
 
